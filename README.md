@@ -1,2 +1,2 @@
-# rogues-and-magi
+# Rogues & Magi
 Roguelike low-overhead Unity game.
